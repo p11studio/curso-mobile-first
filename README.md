@@ -1,3 +1,3 @@
-# curso-mobile-firs
+# Curso Mobile firtst de Platzi
 
 Curso Mobile firtst de Platzi
